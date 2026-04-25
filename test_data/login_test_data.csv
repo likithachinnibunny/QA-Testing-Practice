@@ -1,0 +1,5 @@
+username,password,expected
+user1,Pass@123,Success
+user1,wrong123,Error
+,test123,Validation Error
+abc,123,Format Error
