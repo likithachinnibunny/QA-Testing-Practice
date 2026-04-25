@@ -1,0 +1,11 @@
+qa-testing-practice/
+│
+├── README.md
+├── test_plan/
+│   └── login_test_plan.md
+├── test_cases/
+│   └── login_test_cases.md
+├── bug_reports/
+│   └── login_bug_reports.md
+└── test_data/
+    └── login_test_data.csv
